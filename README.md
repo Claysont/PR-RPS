@@ -1,6 +1,7 @@
 Older player shows:
 Scissors
 
-Younger player shows: Paper
+Younger player shows: 
+Paper
 
 
